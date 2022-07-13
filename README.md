@@ -2,17 +2,21 @@
 
 
 
-## Image 1 title
-<img src="assets/Abbildung3.png" alt="drawing" style="width:200px;"/>
+## Abbildung 3: Lebensverlaufsmuster 1 bis 4 und Verteilung darauf nach Geschlecht
+und Ländern
+<img src="assets/Abbildung3.png" alt="drawing" style="width:750px;"/>
 
-Text about the graph
+Quelle: eigene Darstellung auf Basis des Analysesamples und Daten von SHARE und SHARELIFE.
 
-## Image 2 title
-<img src="assets/Abbildung4.png" alt="drawing" style="width:200px;"/>
+## Abbildung 4: Lebensverlaufsmuster 5 bis 8 und Verteilung darauf nach Geschlecht
+und Ländern
+<img src="assets/Abbildung4.png" alt="drawing" style="width:750px;"/>
 
-Text about the graph
+Quelle: eigene Darstellung auf Basis des Analysesamples und Daten von SHARE und SHARELIFE.
 
-## Image 3 title
-<img src="assets/Abbildung5.png" alt="drawing" style="width:200px;"/>
+## Abbildung 5: Anteil der einzelnen Lebensverlaufsmuster an gesamter Rentenlücke
+nach Ländern, erklärter Teil der Dekomposition
+<img src="assets/Abbildung5.png" alt="drawing" style="width:750px;"/>
 
-Text about the graph
+Anmerkungen: fett = Signifkanzlevel von mindestens 10 Prozent; nur erklärte Anteile der Dekomposition dargestellt.
+Quelle: eigene Darstellung auf Basis des Analysesamples und Daten von SHARE und SHARELIFE.
