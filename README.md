@@ -1,7 +1,7 @@
 # Der Zusammenhang von Familien- und Arbeitsbiografien und Rentensystemen mit dem Gender Pension Gap – geschlechtsspezifsche Rentenlücken in Europa aus der Lebensverlaufsperspektive
 Carla Rowold, Oxford 
 
-Unten sind Abbildungen 3-5 zu finden.
+Unten sind die Abbildungen 3-5 in Farbe zu finden.
 Hier der Link zum Original-Artikel: [Link zum Artikel](https://www.deutsche-rentenversicherung.de/SharedDocs/Downloads/DE/Zeitschriften/DRV_Hefte_deutsch/2022/ausgewaehlter_artikel_heft_2_rowold.pdf?__blob=publicationFile&v=3)
 
 ## Abbildung 3: Lebensverlaufsmuster 1 bis 4 und Verteilung darauf nach Geschlecht und Ländern
