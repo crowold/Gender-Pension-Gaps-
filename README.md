@@ -2,8 +2,8 @@
 
 
 
-## Abbildung 3: Lebensverlaufsmuster 1 bis 4 und Verteilung darauf nach Geschlecht
-und Ländern
+## Abbildung 3: Lebensverlaufsmuster 1 bis 4 und Verteilung darauf nach Geschlecht und Ländern
+
 <img src="assets/Abbildung3.png" alt="drawing" style="width:750px;"/>
 
 Quelle: eigene Darstellung auf Basis des Analysesamples und Daten von SHARE und SHARELIFE.
